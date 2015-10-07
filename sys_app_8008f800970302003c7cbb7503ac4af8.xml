@@ -4,7 +4,7 @@
         <active>true</active>
         <licensable>true</licensable>
         <logo/>
-        <menu display_value="fruit">a55565b3cb2202003c7c12fb734c9cc0</menu>
+        <menu/>
         <name>fruit</name>
         <private>false</private>
         <scope>sn_fruit</scope>
@@ -15,15 +15,15 @@
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2015-09-23 23:06:09</sys_created_on>
-        <sys_id>255565b3cb2202003c7c12fb734c9ca9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2015-10-07 00:42:16</sys_created_on>
+        <sys_id>8008f800970302003c7cbb7503ac4af8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2015-09-24 21:45:39</sys_updated_on>
+        <sys_updated_on>2015-10-07 00:42:16</sys_updated_on>
         <template/>
-        <user_role display_value="sn_fruit.user" name="sn_fruit.user">6d5565b3cb2202003c7c12fb734c9cc0</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.3</version>
+        <version>1.0</version>
     </sys_app>
 </record_update>
