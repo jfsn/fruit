@@ -2,30 +2,30 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="fruit">1e26a5b3cb2202003c7c12fb734c9c4f</application>
+        <application display_value="test">6df5f510cb0302003c7c12fb734c9c3b</application>
         <filter/>
-        <name>Attributes</name>
+        <name>tests</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>sn_fruit.user</roles>
+        <roles>sn_fruit_test_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2015-09-24 21:46:02</sys_created_on>
+        <sys_created_on>2015-10-07 23:51:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>999c9600973202003c7cbb7503ac4a50</sys_id>
+        <sys_id>2df5f510cb0302003c7c12fb734c9c3c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Attributes</sys_name>
-        <sys_package display_value="fruit" source="sn_fruit">8008f800970302003c7cbb7503ac4af8</sys_package>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="fruit" source="sn_fruit">78353110cb0302003c7c12fb734c9cd0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="fruit">8008f800970302003c7cbb7503ac4af8</sys_scope>
-        <sys_update_name>sys_ui_module_999c9600973202003c7cbb7503ac4a50</sys_update_name>
+        <sys_scope display_value="fruit">78353110cb0302003c7c12fb734c9cd0</sys_scope>
+        <sys_update_name>sys_ui_module_2df5f510cb0302003c7c12fb734c9c3c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2015-09-24 21:46:02</sys_updated_on>
-        <table>sn_fruit_attributes</table>
+        <sys_updated_on>2015-10-07 23:51:27</sys_updated_on>
+        <table>sn_fruit_test</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
