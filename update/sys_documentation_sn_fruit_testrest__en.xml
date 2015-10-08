@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Attributes" language="en" table="sn_fruit_attributes">
+    <sys_documentation element="" label="testrest" language="en" table="sn_fruit_testrest">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Attributes</label>
+            <label>testrest</label>
             <language>en</language>
-            <name>sn_fruit_attributes</name>
-            <plural>Attributes</plural>
+            <name>sn_fruit_testrest</name>
+            <plural>testrests</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2015-10-08 00:47:59</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-10-08 00:52:34</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>e9e2ca50cb0302003c7c12fb734c9cda</sys_id>
+            <sys_id>2cf34290cb0302003c7c12fb734c9c1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Attributes</sys_name>
+            <sys_name>testrest</sys_name>
             <sys_package display_value="fruit" source="sn_fruit">78353110cb0302003c7c12fb734c9cd0</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="fruit">78353110cb0302003c7c12fb734c9cd0</sys_scope>
-            <sys_update_name>sys_documentation_sn_fruit_attributes__en</sys_update_name>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2015-10-08 00:47:59</sys_updated_on>
+            <sys_update_name>sys_documentation_sn_fruit_testrest__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-10-08 00:52:34</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
