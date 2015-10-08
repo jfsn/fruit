@@ -20,18 +20,18 @@
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>system</sys_created_by>
-        <sys_created_on>2015-10-08 00:53:33</sys_created_on>
+        <sys_created_on>2015-10-08 00:55:57</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9b248290cb0302003c7c12fb734c9cc3</sys_id>
+        <sys_id>9ab44a90cb0302003c7c12fb734c9c82</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sn Fruit Test</sys_name>
         <sys_package display_value="fruit" source="sn_fruit">78353110cb0302003c7c12fb734c9cd0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="fruit">78353110cb0302003c7c12fb734c9cd0</sys_scope>
-        <sys_update_name>sys_db_object_9b248290cb0302003c7c12fb734c9cc3</sys_update_name>
+        <sys_update_name>sys_db_object_9ab44a90cb0302003c7c12fb734c9c82</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2015-10-08 00:53:33</sys_updated_on>
+        <sys_updated_on>2015-10-08 00:55:57</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
