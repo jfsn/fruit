@@ -3,20 +3,20 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2015-10-07 23:59:26</sys_created_on>
+        <sys_created_on>2015-10-08 00:16:18</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>a2c77550cb0302003c7c12fb734c9ca2</sys_id>
+        <sys_id>e1abbd10cb0302003c7c12fb734c9c72</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_fruit_aaaa.sn_fruit_aaaa_user</sys_name>
+        <sys_name>sn_fruit_newtableacl.sn_fruit_newtableacl_user</sys_name>
         <sys_package display_value="fruit" source="sn_fruit">78353110cb0302003c7c12fb734c9cd0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="fruit">78353110cb0302003c7c12fb734c9cd0</sys_scope>
-        <sys_security_acl display_value="sn_fruit_aaaa">66c77550cb0302003c7c12fb734c9ca1</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_a2c77550cb0302003c7c12fb734c9ca2</sys_update_name>
+        <sys_security_acl display_value="sn_fruit_newtableacl">29abbd10cb0302003c7c12fb734c9c71</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e1abbd10cb0302003c7c12fb734c9c72</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2015-10-07 23:59:26</sys_updated_on>
-        <sys_user_role display_value="sn_fruit_aaaa_user" name="sn_fruit_aaaa_user">d2c7b150cb0302003c7c12fb734c9ce5</sys_user_role>
+        <sys_updated_on>2015-10-08 00:16:18</sys_updated_on>
+        <sys_user_role display_value="sn_fruit_newtableacl_user" name="sn_fruit_newtableacl_user">99ab7d10cb0302003c7c12fb734c9c10</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
