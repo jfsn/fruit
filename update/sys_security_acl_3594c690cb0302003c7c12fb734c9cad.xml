@@ -5,24 +5,24 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on sn_fruit_testrest</description>
-        <name>sn_fruit_testrest</name>
+        <description>Default access control on sn_fruit_hitme</description>
+        <name>sn_fruit_hitme</name>
         <operation display_value="delete">delete</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2015-10-08 00:52:33</sys_created_on>
+        <sys_created_on>2015-10-08 00:55:22</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e8f34290cb0302003c7c12fb734c9c1b</sys_id>
+        <sys_id>3594c690cb0302003c7c12fb734c9cad</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_fruit_testrest</sys_name>
+        <sys_name>sn_fruit_hitme</sys_name>
         <sys_package display_value="fruit" source="sn_fruit">78353110cb0302003c7c12fb734c9cd0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="fruit">78353110cb0302003c7c12fb734c9cd0</sys_scope>
-        <sys_update_name>sys_security_acl_e8f34290cb0302003c7c12fb734c9c1b</sys_update_name>
+        <sys_update_name>sys_security_acl_3594c690cb0302003c7c12fb734c9cad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2015-10-08 00:52:33</sys_updated_on>
+        <sys_updated_on>2015-10-08 00:55:22</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
