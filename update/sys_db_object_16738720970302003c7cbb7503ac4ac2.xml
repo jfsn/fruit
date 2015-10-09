@@ -11,27 +11,27 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Attributes</label>
+        <label>aaaa2</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>sn_fruit_attributes</name>
+        <name>sn_fruit_aaaa</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>system</sys_created_by>
-        <sys_created_on>2015-10-08 16:16:21</sys_created_on>
+        <sys_created_on>2015-10-09 00:08:36</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>f4675520970302003c7cbb7503ac4ab9</sys_id>
+        <sys_id>16738720970302003c7cbb7503ac4ac2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Sn Fruit Attributes</sys_name>
+        <sys_name>Sn Fruit Aaaa</sys_name>
         <sys_package display_value="fruit" source="sn_fruit">78353110cb0302003c7c12fb734c9cd0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="fruit">78353110cb0302003c7c12fb734c9cd0</sys_scope>
-        <sys_update_name>sys_db_object_f4675520970302003c7cbb7503ac4ab9</sys_update_name>
+        <sys_update_name>sys_db_object_16738720970302003c7cbb7503ac4ac2</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2015-10-08 16:16:21</sys_updated_on>
+        <sys_updated_on>2015-10-09 00:08:36</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
