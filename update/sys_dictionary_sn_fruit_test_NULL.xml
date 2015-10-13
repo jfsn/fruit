@@ -47,7 +47,7 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2015-10-09 00:08:36</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>59a7ec12970302003c7cbb7503ac4a41</sys_id>
+        <sys_id>d6caa452970302003c7cbb7503ac4a5d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_fruit_test</sys_name>
         <sys_package display_value="fruit" source="sn_fruit">3ae303b1970302003c7cbb7503ac4a42</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="fruit">3ae303b1970302003c7cbb7503ac4a42</sys_scope>
         <sys_update_name>sys_dictionary_sn_fruit_test_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2015-10-13 23:17:11</sys_updated_on>
+        <sys_updated_on>2015-10-13 23:31:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
