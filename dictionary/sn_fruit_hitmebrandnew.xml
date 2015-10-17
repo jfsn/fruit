@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element max_length="40" name="sn_fruit_hitmebrandnew" type="collection"/>
+    <element label="Sn Fruit Hitmebrandnew" max_length="40" name="sn_fruit_hitmebrandnew" type="collection"/>
 </database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Sn Fruit Shouldhaveaclroles" language="en" table="sn_fruit_shouldhaveaclroles">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sn Fruit Shouldhaveaclroles</label>
+            <language>en</language>
+            <name>sn_fruit_shouldhaveaclroles</name>
+            <plural>Sn Fruit Shouldhaveaclroles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-10-16 23:53:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d5dc4813970302003c7cbb7503ac4ab6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sn Fruit Shouldhaveaclroles</sys_name>
+            <sys_package display_value="fruit" source="sn_fruit">2fc14743970302003c7cbb7503ac4acb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="fruit">2fc14743970302003c7cbb7503ac4acb</sys_scope>
+            <sys_update_name>sys_documentation_sn_fruit_shouldhaveaclroles__en</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-10-16 23:53:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

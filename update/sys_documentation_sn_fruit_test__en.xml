@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Sn Fruit Test" language="en" table="sn_fruit_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sn Fruit Test</label>
+            <language>en</language>
+            <name>sn_fruit_test</name>
+            <plural>Sn Fruit Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2015-10-16 23:53:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>55dc4813970302003c7cbb7503ac4aaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sn Fruit Test</sys_name>
+            <sys_package display_value="fruit" source="sn_fruit">2fc14743970302003c7cbb7503ac4acb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="fruit">2fc14743970302003c7cbb7503ac4acb</sys_scope>
+            <sys_update_name>sys_documentation_sn_fruit_test__en</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2015-10-16 23:53:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -11,7 +11,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>shouldhaveaclroles</label>
+        <label>Sn Fruit Shouldhaveaclroles</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>sn_fruit_shouldhaveaclroles</name>
         <number_ref/>
@@ -25,10 +25,10 @@
         <sys_id>fe750bb1970302003c7cbb7503ac4a36</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>shouldhaveaclroles</sys_name>
-        <sys_package display_value="fruit" source="sn_fruit">3ae303b1970302003c7cbb7503ac4a42</sys_package>
+        <sys_package display_value="fruit" source="sn_fruit">2fc14743970302003c7cbb7503ac4acb</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="fruit">3ae303b1970302003c7cbb7503ac4a42</sys_scope>
+        <sys_scope display_value="fruit">2fc14743970302003c7cbb7503ac4acb</sys_scope>
         <sys_update_name>sys_db_object_fe750bb1970302003c7cbb7503ac4a36</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2015-10-12 21:29:53</sys_updated_on>
