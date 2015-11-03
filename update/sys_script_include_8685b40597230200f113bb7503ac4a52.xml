@@ -2,7 +2,7 @@
 <record_update table="sys_script_include">
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
-        <active>true</active>
+        <active>false</active>
         <api_name>sn_testtest.tes_test_test_test_test</api_name>
         <client_callable>false</client_callable>
         <description/>
